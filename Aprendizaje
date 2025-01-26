@@ -1,0 +1,4 @@
+En este proyecto aprendo a cómo usar Tkinter para crear interfaces gráficas en Python, aplicar programación orientada a eventos al vincular acciones del usuario 
+con funciones, y gestionar datos en memoria con estructuras como listas. Además, promueve el diseño de interfaces intuitivas mediante el uso de pack() o grid(), 
+y fomenta buenas prácticas de programación al mantener separada la lógica del negocio de la presentación, utilizando nombres descriptivos para las variables y funciones. 
+Este ejercicio ayuda a desarrollar habilidades en la creación de aplicaciones interactivas y en la resolución de problemas prácticos en el diseño de interfaces.
