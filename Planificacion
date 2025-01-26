@@ -1,0 +1,7 @@
+PLANIFICACION
+
+Ventana principal: Contendrá una lista de tareas (usaremos un Listbox para mostrar las tareas).
+Agregar tarea: Un campo de texto (Entry) y un botón para añadir tareas.
+Eliminar tarea: Un botón para eliminar tareas seleccionadas.
+Marcar como completada: Un botón para marcar las tareas seleccionadas como completadas, que podría cambiar su estilo o texto.
+Interacción: El usuario podrá interactuar con las tareas mediante los botones.
